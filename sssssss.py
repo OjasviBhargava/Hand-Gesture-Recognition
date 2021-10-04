@@ -1,4 +1,5 @@
-import cv2
+# importing packages
+import cv2 
 import numpy as np
 import copy
 import math
@@ -22,7 +23,7 @@ learningRate = 0
 isBgCaptured = 0  # bool, whether the background captured
 triggerSwitch = False  # if true, keyborad simulator works
 
-
+# defining function here
 def printThreshold(thr):
     print("! Changed threshold to " + str(thr))
 
