@@ -2,3 +2,4 @@
 My final year project on Hand Gesture Recognition.
 Detects hand gestures and symbols.
 (still under construction)
+Will be improvising it to use AWS Sagemaker
